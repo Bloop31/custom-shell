@@ -1,4 +1,4 @@
-# 🐚 Mini Custom Shell (myshell)
+# Mini Custom Shell (myshell)
 
 A lightweight Python-based custom command-line shell that executes system commands and supports basic built-in functionality.
 ---
